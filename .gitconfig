@@ -2,3 +2,6 @@
   name  = leandrodeleite
   email = leandrodeleite@gmail.com
 
+[push]
+  default = simple
+
