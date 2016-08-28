@@ -1,4 +1,5 @@
 #dotfiles
 
 .gitconfig
+.vimrc
 
